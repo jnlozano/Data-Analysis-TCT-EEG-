@@ -1,2 +1,2 @@
 # Data-collection-analysis-TCT-
-Small analysis done on a self-organized and self-extracted data set.
+Targeted Cognitive Training data. Done for UCSD Schizophrenia Research Program.
